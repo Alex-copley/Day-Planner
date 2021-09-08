@@ -12,3 +12,5 @@ function displayTime() {
     var rightNow = moment().format("dddd, MMMM Do");
     todaysDate.text(rightNow);
 }
+
+displayTime();
