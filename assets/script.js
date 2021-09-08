@@ -25,6 +25,7 @@ for (i = 0; i < displayArray.length; i++) {
     timeBlockEl.append(timeSpanEl, textAreaEl, saveButtonEl);
     timeBlocks.append(timeBlockEl);
 
+    
 }
 
 
