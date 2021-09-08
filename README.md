@@ -12,15 +12,10 @@ Provide a short description explaining the what, why, and how of your project. U
 
 
 Screenshot:
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/75288748/132441159-6087f25a-871e-4efc-95f9-14181b24d454.png)
 
 Link to displayed page:
+https://alex-copley.github.io/Day-Planner/
 
 ## Credits
 github.com/alex-copley
