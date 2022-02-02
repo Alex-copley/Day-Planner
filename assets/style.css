@@ -25,6 +25,7 @@ body {
   
   .description {
     white-space: pre-wrap;
+    border: 1px solid #000000;
   }
   
   .time-block {
@@ -52,17 +53,17 @@ body {
   }
   
   .past {
-    background-color: #d3d3d3;
+    background-color: #999999;
     color: black;
   }
   
   .present {
-    background-color: #ff6961;
+    background-color: #61ff69;
     color: black;
   }
   
   .future {
-    background-color: #77dd77;
+    background-color: #ffffff;
     color: black;
   }
   
